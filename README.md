@@ -1,6 +1,4 @@
-# Shopify product images — temp upload
+# Shopify product images — temp anonymized upload
 
-Temporary public repo holding new product images for bulk import via Matrixify
-into 8 Shopify stores. Will be deleted after successful import.
-
-Each folder is one SKU. Filename prefix indicates final display position.
+Flat layout. Filename pattern: `s<rank>_i<position>.<ext>`
+Temporary; delete after Matrixify imports complete.
